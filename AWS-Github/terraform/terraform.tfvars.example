@@ -1,0 +1,10 @@
+aws_region          = "us-east-1"
+cluster_name        = "task-manager-cluster"
+cluster_version     = "1.30"
+github_repo         = "Cloud-Tamil/GitHub-Actions"
+environment         = "production"
+vpc_cidr            = "10.0.0.0/16"
+node_instance_types = ["t3.medium"]
+node_desired_size   = 2
+node_min_size       = 1
+node_max_size       = 3

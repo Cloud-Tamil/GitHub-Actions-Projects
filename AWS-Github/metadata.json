@@ -1,0 +1,6 @@
+{
+  "name": "Task Manager Pro - Cloud Native API",
+  "description": "Production Task Manager API with Postgres, Redis caching, Kubernetes manifests, CI/CD pipelines, and interactive developer console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
