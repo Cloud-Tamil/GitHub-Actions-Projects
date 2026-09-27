@@ -1,0 +1,9 @@
+project_id         = "qwiklabs-gcp-02-6d090168dd30 "
+gcp_region         = "us-east1"
+cluster_name       = "task-manager-cluster"
+github_repo        = "Cloud-Tamil/GitHub-Actions"
+environment        = "production"
+node_machine_type  = "e2-medium"
+node_desired_count = 2
+node_min_count     = 1
+node_max_count     = 4
